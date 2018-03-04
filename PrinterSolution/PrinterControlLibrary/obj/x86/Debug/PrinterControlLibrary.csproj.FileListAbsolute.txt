@@ -1,0 +1,10 @@
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\PrinterControlLibrary.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\PrinterControlLibrary.pdb
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\SATOPrinterAPI.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\zxing.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\zxing.pdb
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x86\Debug\zxing.xml
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x86\Debug\PrinterControlLibrary.UserControl1.resources
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x86\Debug\PrinterControlLibrary.csproj.GenerateResource.Cache
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x86\Debug\PrinterControlLibrary.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x86\Debug\PrinterControlLibrary.pdb

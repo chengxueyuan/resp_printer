@@ -1,0 +1,25 @@
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\PrinterControlLibrary.dll
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\PrinterControlLibrary.pdb
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\SATOPrinterAPI.dll
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\zxing.dll
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\zxing.pdb
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\zxing.xml
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.Preview.resources
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.Properties.Resources.resources
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.UserControl1.resources
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.csproj.GenerateResource.Cache
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.dll
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.pdb
+C:\Users\c\Documents\Visual Studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.csprojResolveAssemblyReference.cache
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\PrinterControlLibrary.dll
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\PrinterControlLibrary.pdb
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\zxing.pdb
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\bin\x64\Debug\zxing.xml
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.csprojResolveAssemblyReference.cache
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.Preview.resources
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.Properties.Resources.resources
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.UserControl1.resources
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.csproj.GenerateResource.Cache
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.csproj.CoreCompileInputs.cache
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.dll
+E:\Printer\PrinterSVNClient\PrinterSolution\PrinterControlLibrary\obj\x64\Debug\PrinterControlLibrary.pdb

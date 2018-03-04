@@ -1,0 +1,13 @@
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.Preview.resources
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.Properties.Resources.resources
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.UserControl1.resources
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.csproj.GenerateResource.Cache
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\PrinterControlLibrary.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\PrinterControlLibrary.pdb
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\SATOPrinterAPI.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\zxing.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\zxing.pdb
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\bin\Release\zxing.xml
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.dll
+C:\Users\c\documents\visual studio 2015\Projects\PrinterSolution\PrinterControlLibrary\obj\Release\PrinterControlLibrary.pdb
